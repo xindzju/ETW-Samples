@@ -2,6 +2,7 @@
 
 //event callback
 void WINAPI ProcessEvent(PEVENT_RECORD pEvent) {
+    std::cout << pEvent->UserData << std::endl;
 }
 
 //event real-time processing thread
