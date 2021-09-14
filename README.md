@@ -35,7 +35,7 @@ https://docs.microsoft.com/en-us/windows/win32/etw/consuming-events
 
 ### Logman
 Logman.exe is a native Windows command-line utility, which is considered to be a Controller. 
-* List all running trace sessions, must excuted from an elevated context
+* List all running event tracing sessions, must excuted from an elevated context
   ```
   logman query -ets
   ```
