@@ -67,5 +67,8 @@ Microsoft-Windows-Kernel-Process         {22FB2CD6-0E7B-422B-A0C7-2FAD1FD0E716}
 
 //system memory
 struct ETWTraceProvider {
-    ULONG Register(
+    ETWTraceProvider() {}
+
+    GUID m_GUID; //provider GUID
+    std::string m_type; //provider type
 };

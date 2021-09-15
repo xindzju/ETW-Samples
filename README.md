@@ -65,3 +65,6 @@ Logman.exe is a native Windows command-line utility, which is considered to be a
  * https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63
  * https://randomascii.wordpress.com/2015/09/24/etw-central/ 
  * https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/etw-event-tracing-for-windows-101
+ * http://r12f.com/posts/introduction-to-wpa-1-why-it-is-slow/
+ * https://docs.microsoft.com/en-us/windows-hardware/test/wpt/optimizing-performance-and-responsiveness-exercise-3
+ * https://github-wiki-see.page/m/morallo/xwa_ddraw_d3d11/wiki/Performance-Tracing
